@@ -10,4 +10,4 @@ Deploy the script by pressing "Run" (you will get a warning, ignore it)
 
 ## Usage
 
-Just user the script in cell `=slackify(text or cell reference`
+Just user the script in cell `=slackify(text or cell reference)`
